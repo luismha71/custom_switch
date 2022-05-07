@@ -3,6 +3,10 @@ description: A new Flutter package project.
 version: 0.0.1
 homepage: https://github.com/luismha71/custom_switch
 
+custom_switch:
+path: ../
+
+
 environment:
   sdk: ">=2.17.0-69.2.beta <3.0.0"
   flutter: ">=1.17.0"
